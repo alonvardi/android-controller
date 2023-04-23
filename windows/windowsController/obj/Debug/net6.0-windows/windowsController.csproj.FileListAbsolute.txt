@@ -1,0 +1,17 @@
+C:\Users\alonv\Projects\android-controller\windows\windowsController\bin\Debug\net6.0-windows\windowsController.exe
+C:\Users\alonv\Projects\android-controller\windows\windowsController\bin\Debug\net6.0-windows\windowsController.deps.json
+C:\Users\alonv\Projects\android-controller\windows\windowsController\bin\Debug\net6.0-windows\windowsController.runtimeconfig.json
+C:\Users\alonv\Projects\android-controller\windows\windowsController\bin\Debug\net6.0-windows\windowsController.dll
+C:\Users\alonv\Projects\android-controller\windows\windowsController\bin\Debug\net6.0-windows\windowsController.pdb
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.csproj.AssemblyReference.cache
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.Form1.resources
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.csproj.GenerateResource.cache
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.AssemblyInfoInputs.cache
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.AssemblyInfo.cs
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.csproj.CoreCompileInputs.cache
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.dll
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\refint\windowsController.dll
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.pdb
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\windowsController.genruntimeconfig.cache
+C:\Users\alonv\Projects\android-controller\windows\windowsController\obj\Debug\net6.0-windows\ref\windowsController.dll
